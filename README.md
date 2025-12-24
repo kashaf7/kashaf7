@@ -38,7 +38,7 @@ Git, GitHub, OpenCV, Tesseract OCR
 
 ## 📫 Contact
 - 📧 Email: kashaffathima80@gmail.com 
-- 💼 LinkedIn: linkedin.com/in/your-profile  
+- 💼 LinkedIn: linkedin.com/kashaf fathima 
 
 ---
 
