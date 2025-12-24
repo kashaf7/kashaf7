@@ -37,7 +37,7 @@ Git, GitHub, OpenCV, Tesseract OCR
 ---
 
 ## 📫 Contact
-- 📧 Email: your-email@example.com  
+- 📧 Email: kashaffathima80@gmail.com 
 - 💼 LinkedIn: linkedin.com/in/your-profile  
 
 ---
